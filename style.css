@@ -19,6 +19,9 @@ body {
   font-weight: 800;
   padding-top: 157px;
 }
+.help-color {
+  color: #ff5959;
+}
 .top-sec h2 {
   text-align: center;
   font-size: 60px;
